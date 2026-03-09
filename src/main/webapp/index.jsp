@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>This is my first DevOps page testing</h2>
+<h2>Updated after CI/CD pipeline setup</h2>
 </body>
 </html>
